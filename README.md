@@ -1,1 +1,1 @@
-# eaarth
+# tic-tac-toe
